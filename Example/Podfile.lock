@@ -1,0 +1,16 @@
+PODS:
+  - AVAudioSessionSetCategorySwift (1.0.0)
+
+DEPENDENCIES:
+  - AVAudioSessionSetCategorySwift (from `../`)
+
+EXTERNAL SOURCES:
+  AVAudioSessionSetCategorySwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AVAudioSessionSetCategorySwift: 35e3592c63c9ab2ff2d914cc6a4d2b67d4eaf9f5
+
+PODFILE CHECKSUM: c92b3d43e69e54339cdaed915cfa6526f4e03756
+
+COCOAPODS: 1.5.3

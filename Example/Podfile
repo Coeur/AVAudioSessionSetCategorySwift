@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'AVAudioSessionSetCategorySwift_Example' do
+  pod 'AVAudioSessionSetCategorySwift', :path => '../'
+
+  target 'AVAudioSessionSetCategorySwift_Tests' do
+    inherit! :search_paths
+  end
+end
